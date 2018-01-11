@@ -1,0 +1,317 @@
+quit()
+5 + 3
+5 + '3'
+'5' + '3'
+import random
+random.randint(10)
+random.randint(1,10)
+food_list = ['oranges', 'broccoli', 'pufferfish', 'sushi']
+condiment_list = ['hot sauce', 'mustard', 'soy sauce', 'ketchup']
+print("Please put some " + random.choice(condiment_list) + " on the " + random.choice(food_list) + ".")
+quit()
+print("Please put some " + random.choice(condiment_list) + " on the " + random.choice(food_list) + ".")
+import random
+randint()
+random.randint()
+n
+A = True
+B = False
+A and B
+A or B
+A = True
+B = True
+A or B
+A and B
+not (A and B)
+not (A or B)
+A = True
+B = False
+C = True
+not ((A and B) or (A and C))
+not (not ((A and B) or (A and C)))
+A = True
+if A == True:
+	print("A is True")
+1 == 0
+a = 2
+if A == True:
+	print("Bleh!")
+	print("Bluh!")
+A = False
+if A == True:
+	print(1)
+A = false
+True and True
+counter = 0
+if counter > 3:
+	print(counter)
+counter = 6
+if counter > 3:
+	print(counter)
+counter = -5
+if True:
+	print(counter)
+if False:
+	print(counter)
+counter = 7
+if counter == 7:
+	counter = 5
+counter
+counter = 6
+if counter == 7:
+	counter = 5
+counter
+if (counter == 7) or (counter == 6):
+	counter = 5
+counter
+quit()
+a = 5
+b = '4'
+a + b
+a + int(b)
+a < int(b)
+a < b
+my_string = 'hello'
+my_num = 1
+for i in range(0, 10):
+	my_string = my_string + 'hello'
+	my_num = my_num + 1
+my_string
+my_num
+my_string = 'hello'
+my_num = 1
+for i in range(0, 10):
+	my_string = my_string + 'hello'
+	my_num = my_num + 1
+	print(my_string)
+	print(my_num)
+for i in range(0, 10):
+	print('a')
+	print(i)
+for blue in range(0, 10):
+	if blue > 6:
+		print("less than 6")
+	if blue < 5:
+		print("less than 5")
+for blue in range(0, 10):
+	if blue > 6:
+		print("greater than 6")
+	if blue < 5:
+		print("less than 5")
+for blue in range(0, 10):
+	if blue > 6:
+		print("greater than 6")
+	if blue < 9:
+		print("less than 9")
+favorite_desserts = ['tiramasu', 'cheesecake', 'chocolate cake', 'ice cream']
+for j in favorite_desserts:
+	print("I ate too much " + j + "!")
+letters = 'abcdefg'
+for jump in letters:
+	print("I like every letter except for " + jump + "."
+)
+letters = 'abc defg'
+for jump in letters:
+	print("I like every letter except for " + jump + "."
+)
+favorite_desserts
+favorite_desserts[0]
+favorite_desserts[2.]
+favorite_desserts[2]
+favorite_desserts
+for i in favorite_desserts[2]:
+	print(i)
+for i in "chocolate cake":
+	print(i)
+for i in range(0, 50):
+	if i > 7:
+		break
+for i in range(0, 50):
+	print (i)
+	if i > 7:
+		break
+for i in range(0, 50):
+	print(i)
+	break
+for i in range(0, 3):
+		print(i)
+for i in range(0, 3):
+print(i)
+counter = 1
+while 3 == 3:
+	print(counter)
+	counter = counter + 1
+	if counter = 4:
+while 3 == 3:
+	print(counter)
+	counter = counter + 1
+	if counter == 4:
+		break
+3 - 1
+6 * 5
+30 / 6
+int(30 / 6)
+31 / 6
+31 // 6
+31 % 6
+7 % 2
+95 % 50
+5^5
+3**3
+5^5
+3**3
+favorite_foods = [['eggs', 'fruit', 'biscuits'], ['sandwich', 'chicken'], ['yellow curry', 'salad']]
+favorite_foods[0]
+favorite_foods[1]
+favorite_foods[0][1]
+favorite_foods[2][0]
+favorite_foods[1][1]
+favorite_desserts
+favorite_desserts[-1]
+favorite_desserts[-2]
+favorite_desserts[-3]
+favorite_desserts[-4]
+favorite_desserts[2:]
+favorite_desserts[1:]
+favorite_desserts[::2]
+favorite_desserts[1::2]
+favorite_desserts
+favorite_desserts.append('apple pie')
+favorite_desserts.append('sherbert')
+favorite_desserts
+favorite_desserts[1::2]
+favorite_desserts
+favorite_desserts[1:4]
+favorite_desserts[1:4:2]
+favorite_desserts
+favorite_desserts[::1]
+favorite_desserts[::2]
+favorite_desserts[1::2]
+vacation_list = ['Paris', 'Barcelona', 'Japan', 'Hawaii', 'Nicaragua']
+for i in vacation_list[::-1]:
+	print(i)
+vacation_list[::-1]
+vacation_list[-3::]
+vacation_list[-3::2]
+vacation_list
+vacation_list[3:1:1]
+vacation_list[3:1:-1]
+food_times = {'morning':'cereal', 'afternoon':'sandwich', 'evening':'chicken pot pie'}
+food_times['morning']
+for i in ['morning', 'afternoon', 'evening']:
+	print(food_times[i]
+	)
+import random
+food_times[random.choice(['morning', 'afternoon', 'evening'])]
+food_times = {'morning':'cereal', 'afternoon':'sandwich', 'evening':'chicken pot pie'}
+many_to_one = {'morning':'cereal', 'morning':'bagel'}
+many_to_one['morning']
+many_to_one
+food_times = {'morning': ['french toast', 'banana'], 'afternoon': ['soup', 'salad'], 'evening': ['mac and cheese', 'fruit']}
+food_times['morning'][0]
+print("I like to eat " + random.choice(food_times['morning']) + " in the morning."
+)
+print("I like to eat " + random.choice(food_times['morning']) + " in the morning.")
+print("I like to eat " + random.choice(food_times['afternoon']) + " in the afternoon.")
+quit()
+while True:
+	print('a')
+quit()
+while True:
+	print('a')
+exit()
+a = input(":").lower
+SANTEUHSNTH
+a
+for i in range(1, 10):
+	for j in range(1, 10):
+		a = 'a'
+counter = 0
+for i in range(1, 10):
+	for j in range(1, 10):
+		a = 'a'
+	counter = counter + 1
+counter
+for i in range(1, 10):
+	for j in range(1, 10):
+		a = 'a'
+		counter = counter + 1
+counter
+10 / 5
+10 // 5
+11 / 5
+11 // 5
+11 % 5
+for i in range(0, 6):
+	if i % 2 == 0:
+		print(i)
+	else:
+		print(i + 1)
+a = building
+a = 'building'
+b = 'school'
+a + b
+a + ' ' + b
+input(":")
+3
+user_number = input(":")
+3
+user_number + 5
+int(user_number) + 5
+int(user_number)
+user_number
+user_number = int(user_number)
+user_number
+"HAHA".lower()
+"HAHA".lower()
+("HAHA".lower()).upper()
+import string
+string.printable
+string.printable[3]
+string.printable[25]
+import random
+random.shuffle("hello", 1)
+random.shuffle("hello")
+for i in "hello":
+hello_list = []
+for i in "hello":
+	hello_list.append(i)
+import random
+random.shuffle(hello_list)
+hello_list
+empty_string = ""
+empty_string = empty_string + hello_list[0]
+empty_string = ""
+empty_string = empty_string + hello_list[0]
+empty_string
+empty_string = empty_string + hello_list[1]
+empty_string
+empty_string = empty_string + hello_list[2]
+empty_string
+hello_list
+empty_list = []
+hello_string = "hello"
+for i in hello_string:
+	empty_list.append(i)
+hello_list = empty_list
+random.shuffle(hello_list)
+hello_list
+my_string = 'aaa'
+my_string_length_holder = len(my_string)
+size_increase = 3
+while len(my_string) <= my_string_length_holder+ size_increase:
+	my_string = my_string + 'a'
+while len(my_string) <= len(my_string) + size_increase:
+	my_string = my_string + 'a'
+	print(my_string)
+while len(my_string) <= len(my_string) + size_increase:
+	my_string = my_string + 'a'
+my_string = 'aaa'
+my_string_length_holder = len(my_string)
+10 / 3
+10 // 3
+10 % 3
+10 / 3 == ((10 // 3) + (10 % 3)/3)
+.1 * 10
+.01 * 100
+100 / 3
