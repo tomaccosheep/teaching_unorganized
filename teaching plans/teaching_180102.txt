@@ -1,0 +1,53 @@
+DAY 1:
+
+.Teach
+
+
+DAY 2:
+
+.Review stuff
+...Review cd, ls & dir
+......Teach pwd
+...Review file hierarchy
+...Review tab completion
+...Review python interactive vs. terminal
+...Review .format()
+......Show "This is the {f} {s}".format(f='first',s='substitution')
+
+
+.Teach atom keyboard shortcuts
+.Teach math operators
+.Teach booleans
+...Go through the boolean game
+.Teach for loops
+.Teach range
+...Combine range, addition, and concatenation
+.Teach if conditionals
+.Teach advanced indecies
+.Teach number sign comments
+
+
+
+
+.Do the emoticon lab
+...teach import
+...teach random.choice
+......do "put some <condiment> on the <food>"
+...Group code a random sandwich generator
+
+
+
+.Do the grading lab
+...Teach if conditionals
+...group code a program that checks if you spend too much money on video games
+
+
+
+
+.Teach .len()
+.Teach break
+.Teach lists inside lists
+.teach dictionaries
+.Teach while loops
+
+.Group code catch not cat

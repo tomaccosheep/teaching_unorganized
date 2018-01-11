@@ -1,0 +1,25 @@
+Teaching plan:
+
+.Do the 'make change' lab
+...Teach // in python interactive
+...group-code drinks_shelf.py
+
+.Do the 'unit conversion' lab
+...Teach dictionaries in python interactive
+......Make a dictionary with people's names and favorite TV shows in python interactive
+......Make a function in python interactive that returns a sentence, "NAME's favorite TV show is TV SHOW
+...group-code drinks_shelf2.py
+
+
+.Do optional stuff
+
+...Teach '''{}'''.format()
+
+...Teach them lists inside lists and dictionaries inside lists
+
+...Teach objects
+......Make 'bus' object, and 'person' object
+......Give the 'bus' a route and the 'person' a stop to get off at
+
+.Get code
+...Get from John, Frank, Karissa, Mike, Sergio

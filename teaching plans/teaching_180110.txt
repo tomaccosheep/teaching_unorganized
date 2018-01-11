@@ -1,0 +1,38 @@
+.Review stuff
+...Review cd, ls & dir
+...Review tab completion
+...Review python interactive vs. terminal
+...Review .format()
+......Show "This is the {f} {s}".format(f='first',s='substitution')
+...Review break
+...Review lists inside lists
+...Review math operators
+...Review booleans
+......Go through the boolean game
+...Review for loops
+...Review range
+...Combine range, addition, and concatenation
+...Review if conditionals
+...Review advanced indecies
+
+.Do password generator
+...Review the "wall floor generator"
+...Look at "import string"
+
+.Do dice game
+...Group code random complement generator
+...Review random and randint
+
+.Do the 'make change' lab
+...Teach // in python interactive
+...group-code drinks_shelf.py (a program that calculates how many bottles can fit on a shelf, baset on bottle size and drink size. Include large and small combo)
+
+
+.teach dictionaries
+.Teach .len()
+.Teach !=
+.Teach importing functions
+.Teach import ascii
+
+
+RPS_dict = {'rock': ['paper', 'scissors'], 'paper': ['scissors', 'rock'], 'scissors': ['rock', 'paper']}

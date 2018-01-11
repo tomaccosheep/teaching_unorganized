@@ -1,0 +1,33 @@
+Teaching plan:
+
+.add people to slack
+.use atom to edit my madlibs file
+
+
+.Give them the emoticon lab
+...Teach random.choice(my_list)
+...Teach them import
+...Work on a file together that makes sentences, "I do not like _____ when they are _______."
+
+.Give them grading lab
+...Talk about truth tables
+......Begin with real-life examples
+...Talk about if then else
+......Talk about the visual in a file vs. in interactive mode
+......Talk about indentation rules
+......Talk about if/elif/else unit relationship
+...Talk about what runs and what does not run
+...Work on a file together to check if a number is between 10 and 20
+...Work on a file that compares two numbers to see if tehy're the same
+
+
+.Do optional stuff
+...Teach '''{}'''.format()
+...Teach them lists inside lists
+...Teach for loops, while loops, range
+......Teach while loops that break when you ask
+.........Write 'catch not cat' together
+...Teach dictionaries
+...Work on a file together to teach "For i in range"
+......Make range an inputed number
+......Have concatenation happen with every loop

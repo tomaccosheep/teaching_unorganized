@@ -1,0 +1,40 @@
+.work on lists
+.work on math operators
+.review cd, arrows, ls
+.post python history
+
+
+
+
+...Do python interactive mode
+...Do Mad Lib lab
+
+
+
+.Quiz them
+...talk about strings and .format()
+...Do lists and lists in lists
+......Make three categorical lists inside another list
+...Do string, int, and addition
+...Do math operators
+...Do 5 / 2, 5 % 2, 5 // 2
+...Do command line stuff
+......Make lots of directories with mkdir
+......Use ls, pwd, python3 FILE, atom FILE, touch, rm, rm -r
+......Go over paste location
+......Go over absolute or relative paths
+...Go over tab completion
+......Use bash and python
+...Introduce for loops
+......Use tmux to show a file, comment the file, and make them guess the result
+......Explain how to type loops into interpretive
+...Introduce .len()
+......Play with .len() and indecies
+...Introduce if/then
+...Introduce while loops
+
+It's good to have advanced goals, because that gives some flexibility to the class
+
+I don't know if my lab can have advanced goals
+
+

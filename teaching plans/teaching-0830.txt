@@ -1,0 +1,10 @@
+Teach:
+.review 5/2, 5%2, 5//2
+.review cd, arrows, ls/dir
+.review .format(), strings, int
+.teach 5/2, 5%2, 5//2
+.go over tab completion
+.go over if/then, while loops again
+.remind them to install anaconda
+.do confusing input
+.make if/elif/else error

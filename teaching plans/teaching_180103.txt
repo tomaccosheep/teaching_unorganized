@@ -1,0 +1,48 @@
+.Review stuff
+...Review cd, ls & dir
+...Review tab completion
+...Review python interactive vs. terminal
+...Review .format()
+......Show "This is the {f} {s}".format(f='first',s='substitution')
+...Review break
+...Review lists inside lists
+...Review math operators
+...Review booleans
+......Go through the boolean game
+...Review for loops
+...Review range
+...Combine range, addition, and concatenation
+...Review if conditionals
+...Review advanced indecies
+
+.Do Magic 8 ball lab
+...Group code catch_not_cat.py (while loop that runs until you type 'cat')
+...Review import random and random.choice()
+
+.Do RPS game
+...Group code food_preferences.py (3 people have a food they like, a food they don't like, and a food they're indifferent about)
+...Go over dictionaries
+...Add a dictionary to RPS
+
+
+.Do dice game
+...Group code random complement generator
+
+.Do a 'guess the number' lab
+...Group code a 'guess two vowels' program
+......Make it a simple while loop, check the first part then the second part, say if each part is correct
+......Teach them index of strings
+
+.Do the 'make change' lab
+...Teach // in python interactive
+...group-code drinks_shelf.py (a program that calculates how many bottles can fit on a shelf, baset on bottle size and drink size. Include large and small combo)
+
+
+.teach dictionaries
+.Teach .len()
+.Teach !=
+.Teach importing functions
+.Teach import ascii
+
+
+RPS_dict = {'rock': ['paper', 'scissors'], 'paper': ['scissors', 'rock'], 'scissors': ['rock', 'paper']}

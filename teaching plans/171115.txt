@@ -1,0 +1,24 @@
+Teaching plan:
+
+.Do a 'guess the number' lab
+...Group code a 'guess two vowels' program
+......Make it a simple while loop, check the first part then the second part, say if each part is correct
+......Teach them index of strings
+
+.Play with Turtle
+...First, import a function from a program that we have made
+...Play with Turtle in python interactive
+......Explain objects kind of??
+...Make a file that sets up a turtle and makes a triangle
+...Make a function in the file that makes an n-sided shape
+......Use this formula for angles: ((sides - 2) * 180) / sides
+...Play with ranges, make odd shapes
+
+
+.Do optional stuff
+
+...Teach '''{}'''.format()
+
+...Teach them lists inside lists
+
+...Teach them dictionaries

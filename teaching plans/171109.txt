@@ -1,0 +1,56 @@
+Teaching plan:
+
+.Figure out a better system for sending files through slack.
+...Tell them to send files to all four of us
+......Write slack names on the board
+......Have them send a practice message
+
+.Do magic 8 ball lab
+...Teach them how to set up and break while loops
+......Group code 'catch not cat.py'
+.........Write a while loop that runs until you type 'cat'
+
+.Do rock/paper/scissors lab
+...Group code a program that has IFs inside of IFs
+......Make a program about "Does this kid like this food?" where the user enters the kid's name and the food
+......Slowly run through how the program works when we enter different information
+
+
+
+.Do optional stuff
+
+...Teach '''{}'''.format()
+
+...Teach them lists inside lists
+
+...Teach for loops, while loops, range
+......Teach while loops that break when you ask
+.........Write 'catch not cat' together
+
+...Teach dictionaries
+
+...Teach "For i in range"
+......Make range an inputed number
+......Have concatenation happen with every loop
+......Do nested ranges
+......Show many iterables, such as strings, lists, ranges
+
+....Do password generator lab
+......Group code a program that makes a random two-letter word
+......Introduce them to 'import ascii'
+.........Tell them to look up the ascii library
+
+...Introduce importing functions
+......Teach them not to make files the same name as libraries
+......Make a simple math function and import it
+
+...Use Turtle
+......Introduce importing files and functions first
+...Explain why Turtle has to be imported
+
+Grading lab issues:
+*Elyse made a simpler file
+*Nick didn't send the file
+*Mayra didn't send the file
+*Josh K didn't send the file
+

@@ -1,0 +1,23 @@
+Review
+.Bash/Dos commands
+...Changing directories
+...ls/dir
+...tab completion
+.strings and integers
+...input is always a string
+...how addition works
+.lists
+...adding to lists
+...changing list variables
+
+.Math operators
+...Do 5/2, 5%2, 5//2
+.import
+...import directory structure
+.loops
+.if
+...if inside if
+......Group code the grading project with extra 'if'
+.while
+.range()
+

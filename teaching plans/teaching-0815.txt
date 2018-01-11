@@ -1,0 +1,39 @@
+I need to check out the turtle module, and make sure that I'll be able to install it onto windows and macs. I should try installing it onto windows first.
+
+I need to show up at 5:30 and have a plan to help Abiba. It would help to find a python module that would help me step through a program, so I should do that. I should just do input(':') probably. I think I could just do small while loops and change indentation.
+
+I could make a python file called double_list, and import that, so that we could play with a double list quickly. It does work well to import local files.
+
+I should message Jen about the turtle module
+
+I should try making a program with pdb.
+
+I also need to make sure that all my files are in the correct locations on all my computers. On my main computer on the class account, I need to make sure that I'll have the correct python files that I want to import. On the chromebook I need the list of labs that I can do, and things that I can generally teach.
+
+I should look at the slack responses too, to check out everyone's code.
+
+
+To Do:
+.Have a plan for Abiba
+...Go through lists, while loops
+.play with pdb
+.Watch the turtle youtube playlist
+.Make advanced versions for every lab
+
+
+
+I think that I can make my own labs, but to do so I should think about what skills I want them to learn, and I should do it in a mind map format
+
+.teach them random things
+
+...Do lists and lists in lists
+......Make three categorical lists inside another list
+
+...Do command line stuff
+......Go over paste location
+
+
+...Introduce list[::]
+
+
+
