@@ -1,0 +1,192 @@
+sys.path
+import sys
+sys.path
+import os
+os.system('cls')
+quit()
+clothes_list = ['hat', 'gloves, shoes']
+len(clothes_list)
+clothes_list[0]
+clothes_list[-1]
+clothes_list.append('shirt')
+clothes_list.append('socks')
+clothes_list
+clothes_list[0:2]
+clothes_list[0:1]
+clothes_list[0:3]
+clothes_list[0:0]
+'1' + '2'
+1 + 2
+my_favorite_movie = input("what's your favorite movie?")
+terminator
+my_favorite_movie
+clothes_list.remove(1)
+clothes_list.pop(1)
+clothes_list
+clothes_list.clear(1)
+clothes_list
+animal_list = [lion]
+animal_list = ['lion', 'zebra', 'cat', 'dog']
+print('')
+print('I like')
+animal_list
+print('I like ' + animal_list[2] + 's ')
+print('I like ' + animal_list[2] + 's more than I like ')
+print('I like ' + animal_list[2] + 's more than I like ' + animal_list[3] + 's.')
+animal_list
+print('I like ' + animal_list[2] + 's more than I like ' + animal_list[3] + 's.')
+import random
+random.choice(animal_list)
+print('I like ' + animal_list[2] + 's more than I like ' + animal_list[3] + 's.')
+print('I like ' + random.choice(animal_list) + 's more than I like ' + random.choice(animal_list) + 's.')
+print("\"")
+print("\\")
+print("\")
+print("a)
+print("\_/")
+print("_/")
+print("\")
+print("\_")
+print("\a")
+print("\9")
+exit()
+not True
+a = True
+b 
+b = False
+a or b
+a and b
+0 != 0
+1 < 0
+2 < 3
+if 3 <= 3:
+	print('a')
+if 2 <= 3:
+	print('a')
+if 4 <= 3:
+	print('a')
+if 2 <= 3:
+	print('a')
+else:
+	print('b')
+if 4 <= 3:
+	print('a')
+else:
+	print('b')
+if 4 <= 3:
+	print('a')
+if 4 <= 3 or 4 == 4:
+	print('a')
+if 4 <= 3 or 4 > 4:
+	print('a')
+	print('b')
+elif 4 == 4:
+	print('c')
+if 4 <= 3 or 4 == 4:
+	print('a')
+	print('b')
+if 4 == 4:
+counter = 0
+while counter < 10:
+	print(counter)
+	counter = counter + 1
+while counter < 10:
+	print(counter)
+	counter = counter + 1
+counter = 0
+while counter < 1000:
+	print(counter)
+	counter = counter + 1
+counter = 0
+counter = counter + 1
+counter = 0
+while counter < 1000:
+	print(counter)
+	counter = counter + 1
+counter
+while counter < 1000:
+	print(counter)
+	counter = counter + 1
+while counter <= 1000:
+	print(counter)
+	counter = counter + 1
+counter
+while counter <= 1000:
+	counter = counter + 1
+while counter <= 3:
+	counter = counter + 1
+counter = 0
+while counter <= 3:
+	counter = counter + 1
+	print(counter)
+while counter <= 3:
+	print(counter)
+	counter = counter + 1
+counter = 0
+while counter <= 3:
+	print(counter)
+	counter = counter + 1
+counter = 0
+while counter <= 3:
+	counter = counter + 1
+	print(counter)
+True and False
+True or False
+False and False
+True and True
+drink_list = ['beer', 'wine', 'whiskey']
+random.choice(drink_list)
+import random
+random.choice(drink_list)
+print(random.choice(drink_list) + ' before ' + random.choice(drink_list))
+list(range(0, 4))
+list(1)
+list(1, 2)
+list((1, 23))
+myscore = 66
+scorelist = [myscore]
+scorelist
+myscore = 70
+scorelist.append(myscore)
+scorelist
+while true:
+	print('a')
+while True:
+	print('a')
+keep_running = True
+while keep_running == True:
+	user_typing = input("Please type 'cat'\n:")
+	if user_typing == 'cat':
+		keep_running = False
+dog
+hat
+mat
+cat
+user_typing == 'cat'
+user_typing == 'mat'
+import random
+good_songs = ['my head', 'superstitious', 'kashmere', 'jingle bells']
+random.choice(good_song)
+random.choice(good_songs)
+should_the_loop_continue = 'no'
+while should_the_loop_continue == 'yes':
+should_the_loop_continue = 'yes'
+while should_the_loop_continue == 'yes':
+	user_input = input('should the loop continue?')
+	if user_input == 'n':
+		should_the_loop_continue = 'no'
+	else:
+		print("We'll keep on going.")
+yes
+cat
+mouse
+no
+n
+grade_num = input('grade')
+65
+grade_num
+input('question')
+Will I have a nice day tomorrow?
+answers = ['yes', 'no']
+import random
+random.choice(answers)

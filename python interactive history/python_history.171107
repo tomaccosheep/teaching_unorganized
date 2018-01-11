@@ -1,0 +1,146 @@
+print('hello')
+string1 = 'abc'
+print(string1)
+print('a')
+abc = 'ice'
+print('abc')
+print(abc)
+clear()
+num1 = 1
+num2 = '2'
+num1 + 1
+num2 + '1'
+num1 + '1'
+3 + '5'
+num2
+'aaa' + num2
+clothes_list = ['pants', 'shirt', gloves]
+clothes_list = ['pants', 'shirt', 'gloves']
+clothes_list_error = ['pants, shirt, gloves']
+clothes_list.len()
+clothes_list.length()
+len(clothes_list)
+clothes_list = ['pants', 'shirt', 'gloves']
+len(clothes_list_error)
+clothes_list[0]
+clothes_list_error[0]
+clothes_list[2]
+clothes_list = ['pants', 'shirt', 'gloves']
+clothes_list
+clothes_list[0]
+clothes_list[1]
+clothes_list[2]
+clothes_list.append('hat')
+clothes_list
+clothes_list[0]
+clothes_list.append('shoes')
+clothes_list[2]
+clothes_list
+clothes_list[4]
+clothes_list[0]
+'cat' + 'dog'
+a = 33
+a
+b = '55'
+b
+a + b
+a
+a + 5
+b
+b + 5
+b
+b + '5'
+'abc' + 'def'
+food_list = ['apple', 'taco, burrito', 'grapes']
+len(food_list)
+empty_list = []
+len(empty_list)
+food_list[0]
+food_list
+food_list[1]
+food_list[2]
+food_list[3]
+food_list[0]
+food_list[-1]
+food_list
+food_list[-3]
+food_list[-2]
+food_list[-4]
+food_list[1:2]
+food_list[1:3]
+food_list[0:2]
+food_list
+food_list[0:2]
+food_list[0:0]
+food_list[0:1]
+food_list[0:4]
+food_list[0:0]
+quit()
+my_favorite_movie = input("What's your favorite movie?\n:")
+Moulan Rouge
+my_favorite_movie
+my_favorite_movie = input("What's your favorite movie?\\n:")
+my_favorite_movie
+my_favorite_food = input("What's your favorite food?\n:")
+Fish
+my_favorite_food
+my_favorite_food + 3
+my_favorite_food + 'a'
+abc = input('def')
+ghi
+my_favorite_food = input("What's your favorite food?\n:")
+Fish
+my_favorite_food
+abc
+abc = input("PRINT def ENDPRINT")
+ghi
+abc = input("Type 'ghi' here:")
+ghi
+abc
+my_favorite_animal = input("What's your favorite animal? ")
+horse
+my_favorite_animal
+quit()
+o
+quit()
+least_favorite_day = input(What's your least favorite day of the week?)
+least_favorite_day = input('What's your least favorite day of the week?')
+least_favorite_day = input("What's your least favorite day of the week?")
+Thursday
+least_favorite_day
+print('a' + ' ' + 'b')
+print('My least favorite day' + least_favorite_day)
+print('My least favorite day is ' + least_favorite_day + '!')
+least_favorite_day = input("What's your least favorite day of the week?")
+Friday night
+print('My least favorite day is ' + least_favorite_day + '!')
+my_list = ['a', 'b']
+aoeu = input('b' + my_list[1])
+age = input("What's your age?")
+65
+print("You are " + age + "years old."
+)
+print("You are " + age + " years old.")
+age = input("What's your age?")
+65
+print("You are " + age + " years old.")
+name1 = 'Dianna'
+family_member = 'mom'
+name1 + ', I am your ' + family_member + '.'
+name1 = input("Give me a name.\n:"
+)
+Dianna
+family_member = input("Give me a family relationship.")
+brother
+name1 + ', I am your ' + family_member + '.'
+1 + '2'
+str(1) + '2'
+1 + int('2')
+drink_list = ['Hefeweizen', 'La Croix', 'Tequila', 'Sweet Tea']
+drink_list[1]
+drink_list[2]
+drink_list[0:2]
+drink_list[1:3]
+drink_list[-1:-3]
+drink_list[0:4]
+drink_list[0:9]

@@ -1,0 +1,56 @@
+test_string = "Today was a rainy day."
+test_list = ['sunny', 'rainy']
+test_list[1]
+test_string[0]
+test_string[1]
+test_string[2:5]
+count = 0
+user_guess = ''
+while count < 5 and user_guess != a:
+	user_guess = input('guess a\n:')
+while count < 5 and user_guess != 'a':
+	user_guess = input('guess a\n:')
+b
+count = 0
+user_guess = ''
+while count < 5 and user_guess != 'a':
+	user_guess = input('guess a\n:')
+	count = count + 1
+b
+import turtle_functions
+import turtle
+my_turtle = turtle.Turtle()
+my_list = []
+my_turtle.circle(1)
+my_turtle.circle(100)
+for i in range(0, 10):
+	my_turtle.forward(10)
+	my_turtle.right(36)
+for i in range(0, 10):
+	my_turtle.forward(100)
+	my_turtle.right(36)
+import turtle_functions
+my_list
+turtle_functions.my_list
+turtle_functions.my_turtle.forward(100)
+import turtle_functions
+turtle_functions.my_list
+turtle_functions.my_string
+import turtle_functions
+turtle_functions.my_list
+import turtle_functions
+turtle_functions.my_list
+turtle_functions.my_string
+import turtle_functions
+turtle_functions.make_a_shape(8, 200)
+for i in range(0, 360):
+	turtle_functions.make_a_shape(7, 5)
+	turtle_functions.my_turtle.forward(1)
+	turtle_functions.my_turtle.right(1)
+for i in range(0, 1000):
+	if i == 8:
+		break
+for i in range(0, 1000):
+	print(i)
+	if i == 8:
+		break

@@ -1,0 +1,821 @@
+alsnewbeginnersclass = input("What's your name? ")
+Al
+print("Hi " + alsnewbeginnersclass + '!')
+import turtle
+my_turtle = turtle.Turtle()
+my_turtle.forward(100)
+my_turtle.right(90)
+my_turtle.forward(100)
+my_turtle.speed(100)
+my_turtle.forward(100)
+import turle
+import turtle
+my_turtle = turtle.Turtle()
+for i in range(0, 360):
+	my_turtle.right(1)
+	my_turtle.forward(1)
+my_turtle.speed(360)
+for i in range(0, 360):
+	my_turtle.right(1)
+	my_turtle.forward(1)
+import my_turtle
+import our_turtle
+a = 1
+a = a + 1
+a
+a = a + 1
+a
+a = a + 1
+a
+a += 1
+a
+a += 1
+a
+a *= 2
+a
+positive_negative = 1
+positive_negative *= -1
+positive_negative
+positive_negative *= -1
+positive_negative
+1 * 1
+1 * -1
+-1 * -1
+1 * -1
+-1 * -1
+positive_negative *= -1
+positive_negative
+my_list = [1, 2, 3, 4]
+import random
+random.choice(my_list)
+while true:
+	print(1)
+while True:
+	print(1)
+import random
+my_list = ['seattle', 'portland', 'salem']
+random.choice(my_list)
+user_choice = input('What is your favorite city? ')
+seattle
+if my_list == user_choice:
+	print('a')
+if random.choice(my_list) == user_choice:
+	print('same')
+else:
+	print('I like somewhere different)
+	print('I like somewhere different')
+	print('a')
+keep_on_running = True
+keep_on_running
+while keep_on_running:
+	if input('Should I stop? ') == 'yes'
+	should_stop = input('Should I stop? ')
+import string
+string.letters
+string.printable
+import string
+string.printable
+string.ascii_letters
+import string
+import random
+random.randint(100)
+random.randint(0, 100)
+aoeu = 'nasothunoash'
+for i in aoeu:
+	print(i)
+import string
+for i in range(26):
+my_list = ''
+for i in range(26):
+	my_list.append(string.ascii_letters[i])
+my_list = []
+for i in range(26):
+	my_list.append(string.ascii_letters[i])
+my_list
+import dictionary_function
+import Desktop.dictionary_function
+my_list = []
+for i in range(26):
+	my_list.append(string.ascii_letters[i])
+string.ascii_letters
+my_list
+import Desktop.dictionary.function
+import Desktop.dictionar_function
+import Desktop.dictionary_function
+import dictionary_function
+dictionary_function.translate('star wars', 0)
+counter = 0
+for i in range(10):
+	star_wars_string, counter = translate('star wars', counter)
+counter = 0
+for i in range(10):
+	star_wars_string, counter = dictionary_function.translate('star wars', counter)
+counter
+star_wars_string
+counter = 0
+star_wars_string, counter = dictionary_function.translate('star wars', counter)
+counter = 0
+star_wars_string, counter = dictionary_function.translate('star wars', counter)
+counter
+counter = 0
+dictionary_function.translate('star wars', counter)
+counter = 0
+star_wars_string, counter = dictionary_function.translate('star wars', counter)
+dictionary_function.translate(counter, 'star wars')
+counter = 10
+dictionary_function.translate('star wars', counter)
+counter = 0
+dictionary_function.translate('star wars', counter)
+counter = 0
+for i in range(10):
+	dictionary_function.translate(counter, 'star wars')
+counter = 0
+for i in range(10):
+	dictionary_function.translate('star wars', counter)
+counter = 0
+for i in range(10):
+	dictionary_function.translate('star wars', counter)
+exit()
+import dictionary_function
+counter = 0
+for i in range(10):
+	dictionary_function.translate('star wars', counter)
+	counter += 1
+for i in range(10):
+	dictionary_function.translate('star wars', counter)
+	counter += 1
+counter = 0
+for i in range(10):
+	dictionary_function.translate('star wars', counter)
+	counter += 1
+counter
+counter = 0
+for i in range(10):
+	dictionary_function.translate('star wars', counter)
+	counter += 1
+import dictionary_function
+counter = 0
+for i in range(10):
+	star_wars_string, counter = dictionary_function.translate('star wars', counter)
+star_wars_string
+counter
+counter = 0
+dictionary_function.translate('star wars', counter)
+counter = 0
+for i in range(10):
+	star_wars_string, counter += dictionary_function.translate('star wars', counter)
+exit()
+import compare_two_numbers
+compare_two_numbers.compare(9000, 400)
+import compare_two_numbers
+import random
+random.randint(1, 10)
+for i in range(20):
+	if i > 7:
+		break
+i
+guessed_correctly = False
+number_of_tries = 0
+while number_of_tries < 10 and not guessed_correctly:
+	number_of_tries += 1
+	print(number_of_tries)
+guessed_correctly = False
+number_of_tries = 0
+while number_of_tries < 10 and not guessed_correctly:
+	if input(':') == 'a':
+		guessed_correctly = True
+b
+c
+a
+guessed_correctly = False
+number_of_tries = 0
+while number_of_tries < 10 and not guessed_correctly:
+	number_of_tries += 1
+	if input(':') == 'a':
+		guessed_correctly = True
+b
+print 'hello'
+print('hello')
+string1 = 'abc'
+print(string1)
+print('a')
+abc = 'ice'
+print('abc')
+print(abc)
+clear()
+num1 = 1
+num2 = '2'
+num1 + 1
+num2 + '1'
+num1 + '1'
+3 + '5'
+num2
+'aaa' + num2
+clothes_list = ['pants', 'shirt', gloves]
+clothes_list = ['pants', 'shirt', 'gloves']
+clothes_list_error = ['pants, shirt, gloves']
+clothes_list.len()
+clothes_list.length()
+len(clothes_list)
+clothes_list = ['pants', 'shirt', 'gloves']
+len(clothes_list_error)
+clothes_list[0]
+clothes_list_error[0]
+clothes_list[2]
+clothes_list = ['pants', 'shirt', 'gloves']
+clothes_list
+clothes_list[0]
+clothes_list[1]
+clothes_list[2]
+clothes_list.append('hat')
+clothes_list
+clothes_list[0]
+clothes_list.append('shoes')
+clothes_list[2]
+clothes_list
+clothes_list[4]
+clothes_list[0]
+'cat' + 'dog'
+a = 33
+a
+b = '55'
+b
+a + b
+a
+a + 5
+b
+b + 5
+b
+b + '5'
+'abc' + 'def'
+food_list = ['apple', 'taco, burrito', 'grapes']
+len(food_list)
+empty_list = []
+len(empty_list)
+food_list[0]
+food_list
+food_list[1]
+food_list[2]
+food_list[3]
+food_list[0]
+food_list[-1]
+food_list
+food_list[-3]
+food_list[-2]
+food_list[-4]
+food_list[1:2]
+food_list[1:3]
+food_list[0:2]
+food_list
+food_list[0:2]
+food_list[0:0]
+food_list[0:1]
+food_list[0:4]
+food_list[0:0]
+quit()
+my_favorite_movie = input("What's your favorite movie?\n:")
+Moulan Rouge
+my_favorite_movie
+my_favorite_movie = input("What's your favorite movie?\\n:")
+my_favorite_movie
+my_favorite_food = input("What's your favorite food?\n:")
+Fish
+my_favorite_food
+my_favorite_food + 3
+my_favorite_food + 'a'
+abc = input('def')
+ghi
+my_favorite_food = input("What's your favorite food?\n:")
+Fish
+my_favorite_food
+abc
+abc = input("PRINT def ENDPRINT")
+ghi
+abc = input("Type 'ghi' here:")
+ghi
+abc
+my_favorite_animal = input("What's your favorite animal? ")
+horse
+my_favorite_animal
+quit()
+o
+quit()
+least_favorite_day = input(What's your least favorite day of the week?)
+least_favorite_day = input('What's your least favorite day of the week?')
+least_favorite_day = input("What's your least favorite day of the week?")
+Thursday
+least_favorite_day
+print('a' + ' ' + 'b')
+print('My least favorite day' + least_favorite_day)
+print('My least favorite day is ' + least_favorite_day + '!')
+least_favorite_day = input("What's your least favorite day of the week?")
+Friday night
+print('My least favorite day is ' + least_favorite_day + '!')
+my_list = ['a', 'b']
+aoeu = input('b' + my_list[1])
+age = input("What's your age?")
+65
+print("You are " + age + "years old."
+)
+print("You are " + age + " years old.")
+age = input("What's your age?")
+65
+print("You are " + age + " years old.")
+name1 = 'Dianna'
+family_member = 'mom'
+name1 + ', I am your ' + family_member + '.'
+name1 = input("Give me a name.\n:"
+)
+Dianna
+family_member = input("Give me a family relationship.")
+brother
+name1 + ', I am your ' + family_member + '.'
+1 + '2'
+str(1) + '2'
+1 + int('2')
+drink_list = ['Hefeweizen', 'La Croix', 'Tequila', 'Sweet Tea']
+drink_list[1]
+drink_list[2]
+drink_list[0:2]
+drink_list[1:3]
+drink_list[-1:-3]
+drink_list[0:4]
+drink_list[0:9]
+sys.path
+import sys
+sys.path
+import os
+os.system('cls')
+quit()
+clothes_list = ['hat', 'gloves, shoes']
+len(clothes_list)
+clothes_list[0]
+clothes_list[-1]
+clothes_list.append('shirt')
+clothes_list.append('socks')
+clothes_list
+clothes_list[0:2]
+clothes_list[0:1]
+clothes_list[0:3]
+clothes_list[0:0]
+'1' + '2'
+1 + 2
+my_favorite_movie = input("what's your favorite movie?")
+terminator
+my_favorite_movie
+clothes_list.remove(1)
+clothes_list.pop(1)
+clothes_list
+clothes_list.clear(1)
+clothes_list
+animal_list = [lion]
+animal_list = ['lion', 'zebra', 'cat', 'dog']
+print('')
+print('I like')
+animal_list
+print('I like ' + animal_list[2] + 's ')
+print('I like ' + animal_list[2] + 's more than I like ')
+print('I like ' + animal_list[2] + 's more than I like ' + animal_list[3] + 's.')
+animal_list
+print('I like ' + animal_list[2] + 's more than I like ' + animal_list[3] + 's.')
+import random
+random.choice(animal_list)
+print('I like ' + animal_list[2] + 's more than I like ' + animal_list[3] + 's.')
+print('I like ' + random.choice(animal_list) + 's more than I like ' + random.choice(animal_list) + 's.')
+print("\"")
+print("\\")
+print("\")
+print("a)
+print("\_/")
+print("_/")
+print("\")
+print("\_")
+print("\a")
+print("\9")
+exit()
+not True
+a = True
+b 
+b = False
+a or b
+a and b
+0 != 0
+1 < 0
+2 < 3
+if 3 <= 3:
+	print('a')
+if 2 <= 3:
+	print('a')
+if 4 <= 3:
+	print('a')
+if 2 <= 3:
+	print('a')
+else:
+	print('b')
+if 4 <= 3:
+	print('a')
+else:
+	print('b')
+if 4 <= 3:
+	print('a')
+if 4 <= 3 or 4 == 4:
+	print('a')
+if 4 <= 3 or 4 > 4:
+	print('a')
+	print('b')
+elif 4 == 4:
+	print('c')
+if 4 <= 3 or 4 == 4:
+	print('a')
+	print('b')
+if 4 == 4:
+counter = 0
+while counter < 10:
+	print(counter)
+	counter = counter + 1
+while counter < 10:
+	print(counter)
+	counter = counter + 1
+counter = 0
+while counter < 1000:
+	print(counter)
+	counter = counter + 1
+counter = 0
+counter = counter + 1
+counter = 0
+while counter < 1000:
+	print(counter)
+	counter = counter + 1
+counter
+while counter < 1000:
+	print(counter)
+	counter = counter + 1
+while counter <= 1000:
+	print(counter)
+	counter = counter + 1
+counter
+while counter <= 1000:
+	counter = counter + 1
+while counter <= 3:
+	counter = counter + 1
+counter = 0
+while counter <= 3:
+	counter = counter + 1
+	print(counter)
+while counter <= 3:
+	print(counter)
+	counter = counter + 1
+counter = 0
+while counter <= 3:
+	print(counter)
+	counter = counter + 1
+counter = 0
+while counter <= 3:
+	counter = counter + 1
+	print(counter)
+True and False
+True or False
+False and False
+True and True
+drink_list = ['beer', 'wine', 'whiskey']
+random.choice(drink_list)
+import random
+random.choice(drink_list)
+print(random.choice(drink_list) + ' before ' + random.choice(drink_list))
+list(range(0, 4))
+list(1)
+list(1, 2)
+list((1, 23))
+myscore = 66
+scorelist = [myscore]
+scorelist
+myscore = 70
+scorelist.append(myscore)
+scorelist
+while true:
+	print('a')
+while True:
+	print('a')
+keep_running = True
+while keep_running == True:
+	user_typing = input("Please type 'cat'\n:")
+	if user_typing == 'cat':
+		keep_running = False
+dog
+hat
+mat
+cat
+user_typing == 'cat'
+user_typing == 'mat'
+import random
+good_songs = ['my head', 'superstitious', 'kashmere', 'jingle bells']
+random.choice(good_song)
+random.choice(good_songs)
+should_the_loop_continue = 'no'
+while should_the_loop_continue == 'yes':
+should_the_loop_continue = 'yes'
+while should_the_loop_continue == 'yes':
+	user_input = input('should the loop continue?')
+	if user_input == 'n':
+		should_the_loop_continue = 'no'
+	else:
+		print("We'll keep on going.")
+yes
+cat
+mouse
+no
+n
+grade_num = input('grade')
+65
+grade_num
+input('question')
+Will I have a nice day tomorrow?
+answers = ['yes', 'no']
+import random
+random.choice(answers)
+numlist = [1, 2, 3]
+4 in numlist
+3 in numlist
+2 in numlist
+88 in numlist
+#random binary!
+bin_list = ['0', '1']
+import random
+for i in range(0, 5):
+	print(random.choice(bin_list))
+print(random.choice(bin_list))
+import random
+bin_list = ['0', '1']
+print(random.choice(bin_list))
+import random
+food_list = ['burrito', 'chips']
+random.choice(food_list)
+my_num = 3
+my_num += 2
+my_num
+my_word = 'comput'
+my_word += 'er'
+my_word
+import string
+random.choice(string.ascii_letters)
+test_string = "Today was a rainy day."
+test_list = ['sunny', 'rainy']
+test_list[1]
+test_string[0]
+test_string[1]
+test_string[2:5]
+count = 0
+user_guess = ''
+while count < 5 and user_guess != a:
+	user_guess = input('guess a\n:')
+while count < 5 and user_guess != 'a':
+	user_guess = input('guess a\n:')
+b
+count = 0
+user_guess = ''
+while count < 5 and user_guess != 'a':
+	user_guess = input('guess a\n:')
+	count = count + 1
+b
+import turtle_functions
+import turtle
+my_turtle = turtle.Turtle()
+my_list = []
+my_turtle.circle(1)
+my_turtle.circle(100)
+for i in range(0, 10):
+	my_turtle.forward(10)
+	my_turtle.right(36)
+for i in range(0, 10):
+	my_turtle.forward(100)
+	my_turtle.right(36)
+import turtle_functions
+my_list
+turtle_functions.my_list
+turtle_functions.my_turtle.forward(100)
+import turtle_functions
+turtle_functions.my_list
+turtle_functions.my_string
+import turtle_functions
+turtle_functions.my_list
+import turtle_functions
+turtle_functions.my_list
+turtle_functions.my_string
+import turtle_functions
+turtle_functions.make_a_shape(8, 200)
+for i in range(0, 360):
+	turtle_functions.make_a_shape(7, 5)
+	turtle_functions.my_turtle.forward(1)
+	turtle_functions.my_turtle.right(1)
+for i in range(0, 1000):
+	if i == 8:
+		break
+for i in range(0, 1000):
+	print(i)
+	if i == 8:
+		break
+import turtle
+my_turtle = turtle.Turtle()
+my_turtle.forward(100)
+for i in range(0, 360):
+	my_turtle.forward(1)
+	my_turtle.right(1)
+import turtle_functions
+turtle_functions.make_a_triangle()
+turtle_functions.make_a_shape(33, 20)
+turtle_functions.make_a_shape(30, 5)
+turtle_functions.make_a_shape(5, 30)
+my_turtle.forward(100)
+turtle_functions.my_turtle.forward(100)
+5 + 5
+5 * 5
+9 / 3
+9 // 3
+10 / 3
+10 // 3
+10 % 3
+100 // 17
+100 % 17
+1 + 'a'
+1 + 2
+1 + '2'
+my_num = input(':')
+3
+my_num
+my_num + 1
+100 / 17
+100 // 17
+100 % 17
+#How many quarters are in $2.65?
+265 // 25
+#How much of that $2.65 can't be represented through quarters?
+265 % 25
+10/3
+import math
+((10/3)/3)*100
+1.15 // 25
+1.15 % 25
+1.15 % .25
+(1.15 % .25) * 100
+math.ceil((1.15 % .25) * 100)
+tv_dict = {'Christian': 'GoT'}
+tv_dict['Christian']
+tv_dict['Elyse'] = 'Breaking Bad'
+tv_dict
+tv_dict['Elyse']
+tv_dict['Anna'] = 'Battlestar Galactica'
+tv_dict['Brianna'] = 'Utena'
+tv_dict['Mike'] = 'Behind the Music'
+tv_dict
+def test_function():
+	print('a')
+def learn_about_tv(tv_watcher):
+	print(tv_watcher + " likes to watch " + tv_dict[tv_watcher])
+learn_about_tv('Mike')
+def learn_about_tv(tv_watcher):
+	print(tv_watcher + ' likes to watch ' + tv_dict[tv_watcher])
+learn_about_tv('Christian')
+learn_about_tv('Brianna')
+tv_dict
+learn_about_tv('Anna')
+learn_about_tv('Elyse')
+def learn_about_tv(tv_watcher):
+	print(tv_watcher + ' likes to watch ' + tv_dict[tv_watcher])
+tv_dict
+learn_about_tv('Christian')
+meter_conversion_dict = {'foot': 3.28084, 'mile': 0.00621371}
+def convert_units(number, input_unit, output_unit):
+	meters = number / meter_conversion_dict[input_unit]
+	return meters * meter_conversion_dict[output_unit]
+convert_units(5280, 'foot', 'mile')
+def convert_units(number, input_unit, output_unit):
+meter_conversion_dict = {'foot': 3.28084, 'mile': 0.000621371}
+def convert_units(number, input_unit, output_unit):
+	meters = number / meter_conversion_dict[input_unit]
+	return meters * meter_conversion_dict[output_unit]
+convert_units(5280, 'foot', 'mile')
+215 // 25
+215 % 25
+remainder = 15
+remainder // 10
+remainder = remainder % 10
+remainder
+remainder // 5
+quit()
+quit
+quit()
+2 + 3
+print(2 + 3)
+print('a' + 'b')
+print('5' + 'b')
+print('2' + '3')
+print('2' + 3)
+print(2 + '3')
+print('a' + '5')
+print(7 + 9)
+print(7 + '9')
+fruit = 'apple'
+print(fruit)
+print('fruit')
+favorite_movies = ['Drive', 'Braveheart', 'Cinderella', 'Star Wars, Bright']
+favorite_movies[2]
+favorite_movies[0]
+favorite_movies[3]
+favorite_movies[1]
+favorite_movies[3] = 'Star Wars'
+favorite_movies.append('Bright')
+favorite_movies
+favorite_bands = ['The Beatles']
+favorite_bands.append()
+favorite_bands.append('Rush')
+favorite_bands.append('Cake')
+favorite_bands.append('The Roots')
+favorite_bands.append('Kiss')
+favorite_bands
+5 + 3
+favorite_bands[4]
+favorite_bands[5]
+favorite_bands
+print("I think that the band " + favorite[2] + " is overrated.")
+print("I think that the band " + favorite_bands[2] + " is overrated.")
+print("I think that the band" + favorite_bands[2] + "is overrated.")
+print("I think that the band " + favorite_bands[2] + " is overrated.")
+favorite_bands
+favorite_bands.append('No')
+favorite_bands
+empty_list = []
+empty_list
+empty_list.clear()
+empty_list.count()
+empty_list.sort()
+empty_list.insert()
+favorite_movies
+print("I thought that " + [2] + " was pretty good.")
+print("I thought that " + favorite_movies[2] + " was pretty good.")
+print("I thought that " + favorite_movies[2] + " was pretty good.
+favorite_movies_2 = ['Bright']
+favorite_movies_2[0]
+print('3' + '4')
+print('a' + 'b')
+print(4 + 7 + '8')
+print(4 + 7)
+print('4' + '7')
+favorite_bands
+favorite_bands[3]
+favorite_bands[5]
+favorite_bands[2]
+favorite_bands.append('RB')
+favorite_bands[6]
+print("I think that the band " + favorite_bands[2] + " is overrated.")
+print("I think that the band " + favorite_bands[:] + " is overrated.")
+print("I think that the band " + favorite_bands[::] + " is overrated.")
+print("I think that the band " + str(favorite_bands) + " is overrated.")
+favorite_bands[:]
+print("I think that the band " + str(favorite_bands) + " is overrated.")
+favorite_bands
+favorite_bands.remove('RB')
+favorite_bands.append('RB')
+favorite_bands
+quit()
+a = 'b'
+print(a)
+quit()
+quit
+quit()
+print("I don't like Waterworld.")
+print('I don't like Waterworld.')
+print('I like Waterworld.')
+print('I don\'t like Waterworld.')
+my_favorite_show = input("What is your favorite show?\n:")
+Battlestar Galactica
+my_favorite_show
+my_favorite_show = input("What is your favorite show?\n:")
+Game of Thrones
+my_favorite_show
+print("abcde\nfghi")
+my_favorite_show = input("What is your favorite show?")
+print("abcde\nfghi")
+quit()
+empty_list = []
+force = input("What's your favorite color?\n:")
+Blue
+force
+print("This is a {} day.".format("sunny"))
+print("This is a {} {} day.".format("sunny"))
+print("This is a {}, {} day.".format("sunny", "warm"))
+print('''This is a
+{}, {}
+day.".format("sunny", "warm"))
+''')
+print('''This is a
+{}, {}
+day.'''.format("sunny", "warm"))
+full_string = ''
+full_string = full_string + "This is a "
+full_string = full_string + "sunny, "
+full_string = full_string + "warm, and "
+day_adj_3 = input("What is the third?\n:")
+pleasant
+full_string = full_string + day_adj_3
+full_string = full_string + " day."
+print(full_string)
